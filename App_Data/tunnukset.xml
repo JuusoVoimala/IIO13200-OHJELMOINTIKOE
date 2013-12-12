@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kayttajat>
+  <kayttaja>
+    <nimi>Musti Mustaparta</nimi>
+    <kayttajanimi>musti</kayttajanimi>
+     <salasana>musta</salasana>
+  </kayttaja>
+  <kayttaja>
+    <nimi>Iivo Ilmarinen</nimi>
+    <kayttajanimi>iivi</kayttajanimi>
+    <salasana>ilma</salasana>
+  </kayttaja>
+  <kayttaja>
+    <nimi>Tero Terävä</nimi>
+    <kayttajanimi>tero</kayttajanimi>
+    <salasana>terä</salasana>
+  </kayttaja>
+  <kayttaja>
+    <nimi>Ville Vallaton</nimi>
+    <kayttajanimi>ville</kayttajanimi>
+    <salasana>valle</salasana>
+  </kayttaja>
+</kayttajat>

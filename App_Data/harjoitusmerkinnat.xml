@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<harjoitukset>
+  <harjoitus>
+    <hiihtaja></hiihtaja>
+    <paivamaara></paivamaara>
+    <hiihtoaika></hiihtoaika>
+    <kilometrit></kilometrit>
+  </harjoitus>
+  <harjoitus>
+    <hiihtaja></hiihtaja>
+    <paivamaara></paivamaara>
+    <hiihtoaika></hiihtoaika>
+    <kilometrit></kilometrit>
+  </harjoitus>
+  <harjoitus>
+    <hiihtaja></hiihtaja>
+    <paivamaara></paivamaara>
+    <hiihtoaika></hiihtoaika>
+    <kilometrit></kilometrit>
+  </harjoitus>
+  <harjoitus>
+    <hiihtaja></hiihtaja>
+    <paivamaara></paivamaara>
+    <hiihtoaika></hiihtoaika>
+    <kilometrit></kilometrit>
+  </harjoitus>
+  <harjoitus>
+    <hiihtaja></hiihtaja>
+    <paivamaara></paivamaara>
+    <hiihtoaika></hiihtoaika>
+    <kilometrit></kilometrit>
+  </harjoitus>
+</harjoitukset>
